@@ -5,7 +5,7 @@
 
 -Predicts the NAV(Net Asset Value) for Mutual Fund
 
--Preducts the future retuns of Mutual Fund
+-Predicts the future retuns of Mutual Fund
 
--Classify Mutual fund based on Risk Factor
+-Classifies Mutual fund based on Risk Factor
 
